@@ -1,0 +1,14 @@
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.deps.json
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.runtimeconfig.json
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.dll
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/bin/Debug/net8.0/ConsoleApp1.pdb
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.AssemblyInfo.cs
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.dll
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/refint/ConsoleApp1.dll
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.pdb
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/ConsoleApp1.genruntimeconfig.cache
+/Users/wendyyeung/Development/code/intro.net/ConsoleApp1/obj/Debug/net8.0/ref/ConsoleApp1.dll
